@@ -1,0 +1,1 @@
+sqlite3 /Users/Siddharth.Kothari/Desktop/Airflow-DAG-Examples/temp/lab/manual/manual-load-db.db < import_data.sql
