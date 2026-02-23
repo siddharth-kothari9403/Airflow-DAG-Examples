@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../airflow"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Ex_Files_Learning_Apache_Airflow/Exercise Files"
+		}
+	],
+	"settings": {}
+}
